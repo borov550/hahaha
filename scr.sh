@@ -6,6 +6,6 @@ while true; do
 
 	git commit -m "Add $name"
 
-	sleep 5
+	sleep 1
 
 done
