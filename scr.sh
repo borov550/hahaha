@@ -1,5 +1,5 @@
 while true; do
-	name=`date +%s`.txt
+	name=`date +%s`.sh
 	touch $name
 
 	git add .
