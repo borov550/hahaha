@@ -5,7 +5,6 @@ while true; do
 	git add .
 
 	git commit -m "Add $name"
-	git push origin master
 
 	sleep 5
 
